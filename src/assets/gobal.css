@@ -1,0 +1,7 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-image: repeating-linear-gradient(to right,#fbc,#a6c);
+    /* background-color: aqua; */
+}
